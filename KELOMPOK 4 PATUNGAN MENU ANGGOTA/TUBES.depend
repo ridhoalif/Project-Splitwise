@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1448084107 source:d:\tugas\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1448084905 source:d:\tugas\tubes\tubes.cpp
+	<iostream>
+	"TUBES.h"
+
+1448085008 d:\tugas\tubes\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448300775 source:e:\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1448285892 e:\tubes\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448300860 source:e:\tubes\tubes.cpp
+	<iostream>
+	"TUBES.h"
+
+1448300775 source:d:\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1448285892 d:\tubes\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448300403 source:d:\tubes\tubes.cpp
+	<iostream>
+	"TUBES.h"
+
+1448369014 source:e:\asd\tubes\main.cpp
+	"TUBES.h"
+
+1448369028 e:\asd\tubes\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448369014 source:e:\asd\tubes\tubes.cpp
+	"TUBES.h"
+
+1448369014 source:d:\tubes\tubes\tubes.cpp
+	"TUBES.h"
+
+1448369028 d:\tubes\tubes\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448503239 source:d:\tubes\tubes\main.cpp
+	"TUBES.h"
+
+1448671801 source:c:\users\rashief\desktop\new folder\main.cpp
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"TUBES.h"
+
+1448671801 c:\users\rashief\desktop\new folder\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448671821 source:c:\users\rashief\desktop\new folder\tubes.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"TUBES.h"
+
+1448787445 source:d:\new folder\tubes.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"TUBES.h"
+
+1448672136 d:\new folder\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448787020 source:d:\new folder\main.cpp
+	<stdio.h>
+	<string.h>
+	"TUBES.h"
+
+1448789732 source:d:\asd fix\tubes.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"TUBES.h"
+
+1448672136 d:\asd fix\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448789732 source:d:\asd fix2\tubes.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"TUBES.h"
+
+1448672136 d:\asd fix2\tubes.h
+	<iostream>
+	<string>
+	<conio.h>
+	<cstdlib>
+
+1448790493 source:d:\asd fix2\main.cpp
+	<stdio.h>
+	<string.h>
+	"TUBES.h"
+
