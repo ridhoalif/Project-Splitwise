@@ -281,6 +281,13 @@ void deleteanggotamenu(listelm &l,addressmenu &q)
         q->next=NULL;
         q->prev=NULL;
     }
+      else
+    {
+        q->prev->next=q->next;
+        q->next->prev=q->prev;
+        q->next=NULL;
+        q->prev=NULL;
+    }
 
 }
 addressmenu menufavorit(listelm &l)
